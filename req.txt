@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+xgboost
+plotly
+openai
+langchain
+streamlit-chat
